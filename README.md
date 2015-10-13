@@ -11,6 +11,6 @@ Completed user stories:
  * [x] Optional: Add pull-to-refresh for popular stream with SwipeRefreshLayout
  
 
-![Video Walkthrough](<img src='http://i.imgur.com/3u58Sw6.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />)
+(<img src='http://i.imgur.com/3u58Sw6.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
