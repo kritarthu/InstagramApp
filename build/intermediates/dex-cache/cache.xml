@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kupadhy/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/kupadhy/AndroidStudioProjects/InstaTrend/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-d318ab17c7901d386c402f50b09479ac1aea719c.jar" />
+    </item>
+    <item
+        jar="/Users/kupadhy/AndroidStudioProjects/InstaTrend/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/kupadhy/AndroidStudioProjects/InstaTrend/app/build/intermediates/pre-dexed/debug/classes-03797cb51e44ff29a7a0605ad3e4954f070322a3.jar" />
+    </item>
+    <item
+        jar="/Users/kupadhy/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/kupadhy/AndroidStudioProjects/InstaTrend/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6-a237cfb7f229673d349eeb2e1e73cab539171a83.jar" />
+    </item>
+    <item
+        jar="/Users/kupadhy/AndroidStudioProjects/InstaTrend/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/kupadhy/AndroidStudioProjects/InstaTrend/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-4aca47c1143249511abfbffcbcf5494cf198e0fe.jar" />
+    </item>
+    <item
+        jar="/Users/kupadhy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/kupadhy/AndroidStudioProjects/InstaTrend/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-1ca441dba2a01738fc376a721bb06540a0750e88.jar" />
+    </item>
+    <item
+        jar="/Users/kupadhy/AndroidStudioProjects/InstaTrend/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/kupadhy/AndroidStudioProjects/InstaTrend/app/build/intermediates/pre-dexed/debug/classes-cf5e40292cfbc238fd3f65b9b8c7f9fce82ffe9b.jar" />
+    </item>
+    <item
+        jar="/Users/kupadhy/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/kupadhy/AndroidStudioProjects/InstaTrend/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9-81fb15ecd74fa13a16293663cbfcb4b8ad7f290d.jar" />
+    </item>
+
+</items>
