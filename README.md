@@ -13,8 +13,6 @@ Completed user stories:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/3u58Sw6.gif?1' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='http://imgur.com/3u58Sw6' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="3u58Sw6"><a href="//imgur.com/3u58Sw6">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
