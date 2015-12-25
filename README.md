@@ -1,4 +1,4 @@
-# InstagramApp Demo
+# InstagramApp 
 
 This is an Android  application for displaying the current popular posts on Instagram using instagram API.
 
